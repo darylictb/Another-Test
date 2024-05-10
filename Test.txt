@@ -1,0 +1,4 @@
+"AadClientId": "8a039253-f3e4-4cb0-964e-68db1039b096",
+"AadSecret": "RqY8Q~4eilDmH5ObEEhGlmkgO7BCx1grf0uCdcS-",
+"AadTenantDomain": "becketlee.onmicrosoft.com",
+"AadTenantId": "250b5568-3ba1-49fd-bf18-bc78b9f29394",
